@@ -1,3 +1,4 @@
+// test commit after create new branch
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 import './globals.css'
